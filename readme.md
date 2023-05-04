@@ -1,18 +1,7 @@
 # Online Trading Platform
 ## Purpose
-* This is my 1st big project to develop a full stack app by myself.
 * It will be an online trading platform mainly for equities.
 * Charts visualization and creation of personal portfolios will be the first end goal.
-* Implement machine learning to analyze stocks will be my 2nd end goal, this will be done in the near future when I have the time.
-
-## Demo
-* This app uses 2 heroku servers, 1 for the frontend, and another for the backend.
-  * Therefore, if may take a while to load the page or for the user registration / sign in.
-![Demo](./images/demo.gif)
-* Feel free to try out the demo
-  > https://onlinetradingplatform.herokuapp.com/
-* Creating an account will be required to test the trading feature and modify account settings.
-  * Disclaimer, accounts will be deleted without prior notice as this project is still in the development stage.
 
 ## How to make this work
 * Get your own Django secret key
